@@ -24,7 +24,7 @@ namespace _1DV402.S2.L1A
             Initialize();
         }
 
-        public bool MakeGuess
+        public bool MakeGuess(int number)
         {
             if (_number >= MaxNumberOfGuesses)
 	            {
