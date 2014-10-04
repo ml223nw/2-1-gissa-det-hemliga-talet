@@ -1,0 +1,1 @@
+D:\Skola\Grundläggande programering med C#\2-1-gissa-det-hemliga-talet\1DV402.S2.L1A\1DV402.S2.L1A.TestProject\obj\Debug\1DV402.S2.L1A.TestProject.csprojResolveAssemblyReference.cache

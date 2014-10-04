@@ -1,0 +1,6 @@
+D:\Skola\Grundläggande programering med C#\2-1-gissa-det-hemliga-talet\1DV402.S2.L1A\1DV402.S2.L1A\bin\Debug\1DV402.S2.L1A.exe.config
+D:\Skola\Grundläggande programering med C#\2-1-gissa-det-hemliga-talet\1DV402.S2.L1A\1DV402.S2.L1A\obj\Debug\1DV402.S2.L1A.csprojResolveAssemblyReference.cache
+D:\Skola\Grundläggande programering med C#\2-1-gissa-det-hemliga-talet\1DV402.S2.L1A\1DV402.S2.L1A\bin\Debug\1DV402.S2.L1A.exe
+D:\Skola\Grundläggande programering med C#\2-1-gissa-det-hemliga-talet\1DV402.S2.L1A\1DV402.S2.L1A\bin\Debug\1DV402.S2.L1A.pdb
+D:\Skola\Grundläggande programering med C#\2-1-gissa-det-hemliga-talet\1DV402.S2.L1A\1DV402.S2.L1A\obj\Debug\1DV402.S2.L1A.exe
+D:\Skola\Grundläggande programering med C#\2-1-gissa-det-hemliga-talet\1DV402.S2.L1A\1DV402.S2.L1A\obj\Debug\1DV402.S2.L1A.pdb
